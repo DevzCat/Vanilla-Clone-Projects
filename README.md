@@ -6,7 +6,7 @@ This repo contains all the projects that i cloned from other websites (HTML5, CS
 
 ## XFai Hero Clone
 
-![xfai-hero-clone](./images/'XFai Hero Clone.PNG')
+![xfai-hero-clone](./images/XFai-Hero-Clone.PNG)
 
 ### Techs:
 
